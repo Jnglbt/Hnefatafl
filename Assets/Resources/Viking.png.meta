@@ -1,0 +1,700 @@
+fileFormatVersion: 2
+guid: 69eb7b47585f88f4c848c9411d380e81
+timeCreated: 1564933416
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Viking_0
+    21300002: Viking_1
+    21300004: Viking_2
+    21300006: Viking_3
+    21300008: Viking_4
+    21300010: Viking_5
+    21300012: Viking_6
+    21300014: Viking_7
+    21300016: Viking_8
+    21300018: Viking_9
+    21300020: Viking_10
+    21300022: Viking_11
+    21300024: Viking_12
+    21300026: Viking_13
+    21300028: Viking_14
+    21300030: Viking_15
+    21300032: Viking_16
+    21300034: Viking_17
+    21300036: Viking_18
+    21300038: Viking_19
+    21300040: Viking_20
+    21300042: Viking_21
+    21300044: Viking_22
+    21300046: Viking_23
+    21300048: Viking_24
+    21300050: Viking_25
+    21300052: Viking_26
+    21300054: Viking_27
+    21300056: Viking_28
+    21300058: Viking_29
+    21300060: Viking_30
+    21300062: Viking_31
+    21300064: Viking_32
+    21300066: Viking_33
+    21300068: Viking_34
+    21300070: Viking_35
+    21300072: Viking_36
+    21300074: Viking_37
+    21300076: Viking_38
+    21300078: Viking_39
+    21300080: Viking_40
+    21300082: Viking_41
+    21300084: Viking_42
+    21300086: Viking_43
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Viking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 224.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 224.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 224.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 224.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 192.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 192.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 192.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 192.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 192.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 192.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 160.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 160.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 160.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 160.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 160.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 128.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 128.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 128.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 128.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 128.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 96.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 64.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 64.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 64.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 64.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_34
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 32.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 32.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_40
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viking_43
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0.875
+        width: 39.75
+        height: 32.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
